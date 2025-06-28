@@ -18,8 +18,8 @@ Players will focus on:
 
 ### New Capabilities Unlocked
 - **Basic Tool Crafting:** Access to a mod-based system for creating initial tools.
-- **Kiln Operation:** Introduction to the kiln for more efficient bronze and basic alloy production, powered by coal.
-- **Bronze Production:** The ability to combine copper and tin to create bronze, potentially through manual dust mixing and smelting, or more efficiently via the kiln.
+- **Kiln System:** Introduction to the multi-block kiln for efficient bronze and basic alloy production, powered by coal, which includes integrated casting capabilities for forming liquid metals into tool parts (e.g., pickaxe heads, axe heads, tool rods).
+- **Bronze Production:** The ability to combine copper and tin to create bronze, potentially through manual dust mixing and smelting, or more efficiently via the kiln system.
 - **Brick Blast Furnace:** Construction and operation of a brick-based blast furnace for steel production.
 
 ### Gameplay Focus
@@ -27,7 +27,11 @@ This stage emphasizes:
 - **Early Survival:** Adapting to the environment and securing basic needs.
 - **Resource Management:** Efficiently gathering and utilizing raw materials.
 - **Technological Progression:** Advancing from primitive tools to more durable iron, and ultimately, the creation of bronze and early steel.
-- **Introduction to Metallurgy:** Learning the basics of ore processing and alloy creation, with a focus on efficient alloy production using the kiln and the brick blast furnace for steel.
+- **Introduction to Metallurgy:** Learning the basics of ore processing and alloy creation, with a focus on efficient alloy production using the multi-block kiln system (including casting) and the brick blast furnace for steel.
+
+### Key Machines and Structures
+-   **Kiln System:** A multi-block structure powered by coal, essential for efficient bronze and basic alloy production. It includes integrated casting capabilities for forming liquid metals into tool parts (e.g., pickaxe heads, axe heads, tool rods).
+-   **Brick Blast Furnace:** A multi-block furnace used for early steel production. Players will need to construct and operate this to create steel, which is vital for later stages.
 
 ## Stage 2: Steam Age
 
@@ -51,9 +55,14 @@ Players will focus on:
 ### Gameplay Focus
 This stage emphasizes:
 -   **Industrial Expansion:** Scaling up production through steam-powered automation.
--   **Fluid Mechanics:** Understanding and managing fluid flow, pressure, and temperature.
+-   **Fluid Mechanics:** Understanding and managing fluid flow, pressure and temperature.
 -   **Early Power Grids:** Building interconnected systems for steam distribution.
 -   **Transitional Engineering:** Preparing for the shift to electrical power by developing large-scale steam generation.
+
+### Key Machines and Structures
+-   **Steam Boilers:** Essential multi-block structures for generating steam from water and fuel.
+-   **Fluid Transport Systems:** Networks of pipes and pumps for efficient movement of water and steam.
+-   **Steam-Powered Machines:** Various machines (e.g., steam-powered furnaces, presses) that utilize steam for automated processing.
 
 ## General Core Gameplay Concepts
 
@@ -64,9 +73,29 @@ This stage emphasizes:
 
 ## Future Stages (Brief Outline)
 
-- ### Stage 3: Early Electricity (LV) - WIP
-    - **Focus:** Transitioning from steam to electrical power generation.
-    - **Key Mechanic:** Creating a large bronze boiler to generate RF power.
-    - **Resource Note:** Bronze for this can be obtained by recycling Steam machines.
-- ### Stage 4: [Name]
-    - [Brief description of focus]
+## Stage 3: Early Electricity (LV) - WIP
+
+### Goal
+The primary objective of this stage is to transition from steam to electrical power generation, introducing new essential resources like sulfur and redstone.
+
+### Key Activities
+Players will focus on:
+-   Creating a large bronze boiler to generate RF power.
+-   Obtaining first sulfur and redstone.
+-   Utilizing the MegaCorp teleporter for Nether access to acquire sulfur.
+
+### New Capabilities Unlocked
+-   RF (Redstone Flux) power generation and utilization.
+-   Access to new essential resources: sulfur and redstone.
+-   Early low-voltage (LV) electrical automation.
+
+### Gameplay Focus
+This stage emphasizes:
+-   The transition from steam-based to electrical power systems.
+-   Resource diversification, particularly acquiring sulfur from the Nether.
+-   Expanding automation capabilities with early electrical machines.
+
+### Key Machines and Structures
+-   **Large Bronze Boiler (RF Generator):** A significant multi-block structure that converts steam into RF (Redstone Flux) power, marking the player's entry into electrical automation.
+-   **MegaCorp Teleporter (Nether Access):** A pre-provided high-tier teleporter that grants access to the Nether dimension, primarily for acquiring sulfur.
+-   **Early LV Machines:** Initial low-voltage electrical machines that utilize RF power for more advanced automation.
