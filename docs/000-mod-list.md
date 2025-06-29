@@ -52,3 +52,32 @@ This document tracks the planned and included mods for the FluxFactory modpack.
 ### Notes
 
 *   **FTB Licence Notice:** https://github.com/FTBTeam/FTB-Mods-Issues/issues/730
+
+---
+
+## Interesting Mod List
+
+*   [Mekanism: More Machines](https://www.curseforge.com/minecraft/mc-mods/mekanism-more-machine)
+*   [Multipart Machines: Cooking](https://www.curseforge.com/minecraft/mc-mods/multipart-machines-cooking)
+*   [AE2 Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)
+*   [Create: Many More Mechanisms](https://www.curseforge.com/minecraft/mc-mods/create-many-more-mechanisms)
+*   [Create: Ironworks](https://www.curseforge.com/minecraft/mc-mods/create-ironworks)
+*   [Multiblock Machines](https://www.curseforge.com/minecraft/mc-mods/multiblock-machines)
+*   [GCYR Gallery](https://www.curseforge.com/minecraft/mc-mods/gcyr/gallery)
+*   [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
+*   [AE2 Mega Things](https://www.curseforge.com/minecraft/mc-mods/ae2-mega-things)
+*   [Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail)
+*   [Solar Generation](https://www.curseforge.com/minecraft/mc-mods/solargeneration)
+*   [Industrialization Overdrive](https://www.curseforge.com/minecraft/mc-mods/industrialization-overdrive)
+*   [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
+*   [Cucumber](https://www.curseforge.com/minecraft/mc-mods/cucumber)
+*   [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
+*   [Simple Tomb](https://www.curseforge.com/minecraft/mc-mods/simple-tomb)
+*   [Underground Bunkers](https://www.curseforge.com/minecraft/mc-mods/underground-bunkers)
+*   [Wormhole Portals](https://www.curseforge.com/minecraft/mc-mods/wormhole-portals)
+*   [Fullblock Energistics](https://www.curseforge.com/minecraft/mc-mods/fullblock-energistics)
+*   [Extended Industrialization](https://www.curseforge.com/minecraft/mc-mods/extended-industrialization)
+*   [Modular Machinery Reborn](https://www.curseforge.com/minecraft/mc-mods/modular-machinery-reborn)
+*   [AE2 Things Forge](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)
+*   [Soaryn's Projects](https://www.curseforge.com/members/soaryn/projects)
+*   [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
